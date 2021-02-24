@@ -1,0 +1,42 @@
+﻿@model JogoViewModel
+@{
+    ViewData["Title"] = "Jogo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Nome</h2>
+Categoria: @Model.NomeCategoria
+<br />
+<br />
+Desenvolvido por: @Model.NomeDesenvolvedora
+<br />
+Publicado por: @Model.NomePublicadora
+<br />
+<br />
+R$@Model.Preco.ToString("#.00")
+@if (ViewBag.Possui == true)
+{
+    <p> Você já possui esse jogo</p>
+}
+else if (ViewBag.EstaCarrinho == true)
+{
+    <p> Este jogo já está no seu carrinho</p>
+}
+else
+{
+    <br />
+    <br />
+}
+
+Sobre o jogo:
+<br />
+@Model.Descricao
+<br />
+<br />
+@if (ViewBag.Possui != true && ViewBag.EstaCarrinho != true)
+{
+    <a class="btn btn-success" href="/Carrinho/AdicionarCarrinho/?jogoId=@Model.Id">Comprar</a>
+}
+<a href="/Home/Loja" class="btn btn-default">Voltar</a>
+
+

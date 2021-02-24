@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Busca";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Busca de jogos</h2>
+
+<fieldset>
+    <legend>Filtrar Por:</legend>
+    <div class="row">
+        <form>
+            <div class="col-md-2">
+                <label for="Nome" class="control-label">Nome</label>
+                <input type="text" name="Nome" id="Nome" class="form-control"/>
+            </div>
+            <div class="col-md-2">
+                <label for="Preco" class="control-label">Preço</label>
+                <input type="number" name="Preco" id="Preco" class="form-control"/>
+            </div>
+            <div class="col-md-2">
+                <label for="Categoria" class="control-label">Categoria</label>
+                <select name="Categoria" id="Categoria" asp-items="@ViewBag.Categorias" class="form-control"></select>
+            </div>
+            <div class="col-md-2">
+                <label for="Publicadora" class="control-label">Publicadora</label>
+                <select name="Publicadora" id="Publicadora" asp-items="@ViewBag.Publicadoras" class="form-control"></select>
+            </div>
+            <div class="col-md-2">
+                <label for="Desenvolvedora" class="control-label">Desenvolvedora</label>
+                <select name="Desenvolvedora" id="Desenvolvedora" asp-items="@ViewBag.Desenvolvedoras" class="form-control"></select>
+            </div>
+            <div class="col-md-2">
+                <br />
+                <input class="btn btn-default" type="button" value="Buscar" onclick="pesquisaDeJogo()" />
+            </div>
+        </form>
+    </div>
+</fieldset>
+
+
+<div id="resultadoDaBusca">
+
+</div>
+

@@ -1,0 +1,34 @@
+﻿@model List<JogoViewModel>
+
+<br />
+<br />
+<br />
+<table class="table table-responsive table-striped">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Categoria</th>
+            <th>Publicadora</th>
+            <th>Desenvolvedora</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (JogoViewModel item in Model)
+        {
+        <tr>
+            <th><img id="imgPreview" src="data:image/jpeg;base64,@item.ImagemEmBase64" class="img-responsive" width="50"></th>
+            <th>@item.Nome</th>
+            <th>@item.Preco</th>
+            <th>@item.NomeCategoria</th>
+            <th>@item.NomePublicadora</th>
+            <th>@item.NomeDesenvolvedora</th>
+            <th><a class="btn btn-default" href="/Home/Jogo?Id=@item.Id">Abrir</a></th>
+        </tr>
+        }
+    </tbody>
+</table>
+<br />
+

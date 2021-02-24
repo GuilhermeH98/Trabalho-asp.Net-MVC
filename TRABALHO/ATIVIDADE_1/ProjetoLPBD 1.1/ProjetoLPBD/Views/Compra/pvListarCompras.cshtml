@@ -1,0 +1,29 @@
+﻿@model List<CompraViewModel>
+<table class="table table-responsive table-striped">
+    <thead>
+        <tr>
+            <th>Jogos Comprados</th>
+            <th>Data</th>
+            <th>ValorTotal</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (CompraViewModel item in Model)
+        {
+            <tr>
+                <th>
+                    @foreach (JogoViewModel jogo in item.itensCompra)
+                     {
+                        @jogo.Nome
+                        <br/>
+                     }
+                </th>
+                <th>@item.Data</th>
+                <th>@item.ValorTotal</th>
+                <th><a class="btn btn-danger" href="javascript:confirmaExclusao(@item.Id, 'Compra')">Reembolso</a></th>
+            </tr>
+        }
+    </tbody>
+</table>
+

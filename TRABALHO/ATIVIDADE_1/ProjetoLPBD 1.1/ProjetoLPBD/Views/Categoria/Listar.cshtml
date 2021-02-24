@@ -1,0 +1,45 @@
+﻿@model List<CategoriaViewModel>
+@{
+    ViewData["Title"] = "Lista de Categorias";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de Categorias</h2>
+
+<table class="table table-responsive table-striped">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th>
+                Ações
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (CategoriaViewModel item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.Descricao
+                </td>
+                <td>
+                    <a class="btn btn-warning" href="/Categoria/Alterar?id=@item.Id">Alterar</a>
+                    <a class="btn btn-danger" href="javascript:confirmaExclusao(@item.Id, 'Categoria')">Apagar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<span class="text-danger">@ViewBag.Erro</span>
+<br />
+<br />
+<a class="btn btn-default" href="/Home/Administradores">Retornar</a>

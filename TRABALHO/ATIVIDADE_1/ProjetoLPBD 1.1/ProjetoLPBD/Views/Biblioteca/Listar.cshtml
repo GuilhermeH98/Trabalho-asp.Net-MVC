@@ -1,0 +1,35 @@
+﻿@model List<JogoViewModel>
+@{
+    ViewData["Title"] = "Listar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Biblioteca de Jogos</h2>
+
+<table class="table table-responsive table-striped" >
+    <thead>
+        <tr>
+            <th></th>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Categoria</th>
+            <th>Publicadora</th>
+            <th>Desenvolvedora</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (JogoViewModel item in Model)
+        {
+            <tr>
+                <th>
+                    <img id="imgPreview" src="data:image/jpeg;base64,@item.ImagemEmBase64" class="img-responsive" width="100">
+                </th>
+                <th>@item.Nome</th>
+                <th>@item.Preco.ToString("R$#.00")</th>
+                <th>@item.NomeCategoria</th>
+                <th>@item.NomePublicadora</th>
+                <th>@item.NomeDesenvolvedora</th>
+            </tr>
+        }
+    </tbody>
+</table>

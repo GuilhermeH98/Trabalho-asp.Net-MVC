@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Lista Compras";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de Compras</h2>
+<fieldset>
+    <legend>Filtrar Por: </legend>
+    <div class="row">
+        <form>
+            <div class="col-md-3">
+                <label for="DataInicio" class="control-label">Data da Compra - Inicio :</label>
+                <input type="date" name="DataInicio" id="DataInicio" class="form-control" />
+            </div>
+            <div class="col-md-3">
+                <label for="DataFim" class="control-label">Fim</label>
+                <input type="date" name="DataFim" id="DataFim" class="form-control" />
+            </div>
+            <div class="col-md-2">
+                <label for="PrecoInicial" class="control-label">Preço da Compra - Inicio </label>
+                <input type="number" name="PrecoInicial" id="PrecoInicial" class="form-control" />
+            </div>
+            <div class="col-md-2">
+                <label for="PrecoFinal" class="control-label">Fim</label>
+                <input type="number" name="PrecoFinal" id="PrecoFinal" class="form-control" />
+            </div>
+            <div class="col-md-2">
+                <br />
+                <input name="botao" type="button" value="Buscar" onclick="pesquisaDeCompras()" class="btn btn-default">
+            </div>
+        </form>
+    </div>
+</fieldset>
+
+<div id="resultadoDaBusca">
+
+</div>

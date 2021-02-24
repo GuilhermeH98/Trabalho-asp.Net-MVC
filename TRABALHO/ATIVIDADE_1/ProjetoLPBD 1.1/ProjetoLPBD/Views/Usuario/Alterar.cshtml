@@ -1,0 +1,40 @@
+﻿@model UsuarioViewModel
+@{
+    ViewData["Title"] = "Alterar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Alterar Informações do Usuário</h2>
+
+
+<form action="/Usuario/SalvarAlteracao" method="post">
+    <input asp-for="Id" type="hidden" />
+    <input asp-for="UserLogin" type="hidden" />
+    <input asp-for="Administrador" type="hidden" />
+
+    <label for="Nickname" class="control-label">Nome do Usuário</label>
+    <input asp-for="Nickname" class="form-control" />
+    <span asp-validation-for="Nickname" class="text-danger"></span>
+    <br />
+
+    <label for="Senha" class="control-label">Senha nova</label>
+    <input asp-for="Senha" type="password" class="form-control" />
+    <span asp-validation-for="Senha" class="text-danger"></span>
+    <br />
+
+    <input type="submit" value="Alterar Usuário" class="btn btn-success" />
+    <a class="btn btn-danger" href="javascript:confirmaExclusao(@Model.Id, 'Usuario')">Apagar Usuário</a>
+
+    @if (Model.Administrador)
+    {
+        <a class="btn btn-default" asp-controller="Home" asp-action="Administradores">Retornar</a>
+    }
+    else
+    {
+        <a class="btn btn-default" asp-controller="Home" asp-action="Loja">Retornar</a>
+    }
+</form>
+
+<br />
+<span class="text-danger">@ViewBag.Erro</span>
+

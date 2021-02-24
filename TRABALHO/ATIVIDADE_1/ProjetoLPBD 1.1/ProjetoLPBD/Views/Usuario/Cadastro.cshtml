@@ -1,0 +1,41 @@
+﻿@model UsuarioViewModel
+@{
+    ViewData["Title"] = "Cadastro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Cadastrar Usuário</h2>
+
+<form action="/Usuario/Salvar" method="post">
+    <input type="hidden" name="Operacao" value="@ViewBag.Operacao" />
+
+    <input asp-for="Id" type="hidden" />
+
+    <label for="UserLogin" class="control-label">E-mail</label>
+    <input asp-for="UserLogin" type="email" class="form-control"/>
+    <span asp-validation-for="UserLogin" class="text-danger"></span>
+    <br />
+
+    <label for="Senha" class="control-label">Senha</label>
+    <input asp-for="Senha" type="password" class="form-control"/>
+    <span asp-validation-for="Senha"  class="text-danger"></span>
+    <br />
+
+    <label for="Nickname" class="control-label">Nome de Usuário</label>
+    <input asp-for="Nickname" type="text" class="form-control"/>
+    <span asp-validation-for="Nickname"  class="text-danger"></span>
+    <br />
+
+    <label for="Administrador" class="control-label">Administrador?</label>
+    <input asp-for="Administrador"/>
+    <span asp-validation-for="Administrador"  class="text-danger"></span>
+    <br />
+    <br />
+
+    <input type="submit" value="Criar Usuário" class="btn btn-success"/>
+    <a asp-controller="Login" asp-action="Index" class="btn btn-default">Cancelar</a>
+    <br />
+
+    <span class="text-danger">@ViewBag.Erro</span>
+</form>
+

@@ -1,0 +1,31 @@
+﻿@model List<UsuarioViewModel>
+
+<table class="table table-responsive table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nickname</th>
+            <th>Tipo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (UsuarioViewModel item in Model)
+        {
+            <tr>
+                <th>@item.Id</th>
+                <th>@item.Nickname</th>
+                <th>
+                    @if (item.Administrador)
+                    {
+                        <p>Administrador</p>
+                    }
+                    else
+                    {
+                        <p>Usuário</p>
+                    }
+                </th>
+
+</tr>
+        }
+    </tbody>
+</table>

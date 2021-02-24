@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Lista de Usuarios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de Usuarios</h2>
+
+<fieldset>
+    <legend>Filtrar Por: </legend>
+    <div class="row">
+        <form>
+            <div class="col-md-5">
+                <label for="Nome" class="control-label">Nome</label>
+                <input type="text" name="Nome" id="Nome" class="form-control"/>
+            </div>
+            <div class="col-md-5">
+                <label for="Tipo" class="control-label">Tipo</label>
+                <select name="Tipo" id="Tipo" asp-items="@ViewBag.Tipos" class="form-control"></select>
+            </div>
+            <div class="col-md-2">
+                <br />
+                <input type="button" value="Buscar" onclick="pesquisaDeUsuarios()" class="btn btn-default">
+            </div>
+        </form>
+    </div>
+</fieldset>
+
+
+<div id="resultadoDaBusca">
+
+</div>

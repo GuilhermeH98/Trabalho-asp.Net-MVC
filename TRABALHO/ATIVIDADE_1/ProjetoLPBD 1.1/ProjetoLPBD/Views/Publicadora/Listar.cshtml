@@ -1,0 +1,45 @@
+﻿@model List<PublicadoraViewModel>
+@{
+    ViewData["Title"] = "Lista de Publicadoras";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de Publicadoras</h2>
+
+<table class="table table-responsive table-striped">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Nome
+            </th>
+            <th>
+                Ações
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (PublicadoraViewModel item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.Nome
+                </td>
+                <td>
+                    <a class="btn btn-warning" href="/Publicadora/Alterar?id=@item.Id">Alterar</a>
+                    <a class="btn btn-danger" href="javascript:confirmaExclusao(@item.Id, 'Publicadora')">Apagar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<span class="text-danger">@ViewBag.Erro</span>
+<br />
+<br />
+<a class="btn btn-default" href="/Home/Administradores">Retornar</a>

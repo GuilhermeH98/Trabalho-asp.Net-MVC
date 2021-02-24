@@ -1,0 +1,35 @@
+﻿@model List<CarrinhoViewModel>
+@{
+    ViewData["Title"] = "Visualizar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Carrinho de Compras</h2>
+<br />
+
+<table class="table table-responsive table-striped">
+    <tr>
+        <th>Jogo</th>
+        <th>Adicionado em</th>
+        <th>Preço</th>
+        <th></th>
+    </tr>
+
+    @foreach (CarrinhoViewModel item in Model)
+    {
+        <tr>
+            <td>@item.Nome</td>
+            <td>@item.Data</td>
+            <td>@item.Preco.ToString("R$#.00")</td>
+            <th><a class="btn btn-danger" href="javascript:confirmaExclusao(@item.IdJogo, 'Carrinho')">Apagar</a></th>
+        </tr>
+    }
+
+</table>
+<br />
+
+<a class="btn btn-default" href="/Home/Loja">Retornar</a>
+@if (Model.Count > 0)
+{
+    <a class="btn btn-success" href="/Carrinho/EfetuarPedido">Finalizar Compra</a>
+}

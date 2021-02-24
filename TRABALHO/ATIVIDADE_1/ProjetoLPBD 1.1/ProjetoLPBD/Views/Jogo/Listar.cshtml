@@ -1,0 +1,48 @@
+﻿@model List<JogoViewModel>
+@{
+    ViewData["Title"] = "Lista de jogos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de jogos</h2>
+
+<table class="table table-responsive table-striped">
+    <thead>
+        <tr>
+            <th>Imagem</th>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Categoria</th>
+            <th>Publicadora</th>
+            <th>Desenvolvedora</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (JogoViewModel item in Model)
+        {
+            <tr>
+                <th>
+                    <img id="imgPreview" src="data:image/jpeg;base64,@item.ImagemEmBase64" class="img-responsive" width="50">
+                </th>
+                <th>@item.Id</th>
+                <th>@item.Nome</th>
+                <th>@item.Preco.ToString("R$#.00")</th>
+                <th>@item.NomeCategoria</th>
+                <th>@item.NomePublicadora</th>
+                <th>@item.NomeDesenvolvedora</th>
+                <th>
+                    <a class="btn btn-warning" href="/Jogo/Alterar?id=@item.Id">Alterar</a>
+                    <a class="btn btn-danger" href="javascript:confirmaExclusao(@item.Id, 'Jogo')">Apagar</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<span class="text-danger">@ViewBag.Erro</span>
+<br />
+<br />
+<a class="btn btn-default" href="/Home/Administradores">Retornar</a>
+

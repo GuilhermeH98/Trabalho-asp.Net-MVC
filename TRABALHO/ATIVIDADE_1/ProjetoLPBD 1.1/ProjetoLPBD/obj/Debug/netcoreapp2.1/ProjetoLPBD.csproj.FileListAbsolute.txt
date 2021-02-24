@@ -1,0 +1,626 @@
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Jogos e Programas\Visual Studio\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\Nova pasta\ProjetoLPBD\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v3\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v4\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v5\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.genruntimeconfig.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v6\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.genruntimeconfig.cache
+C:\Users\Harich\Downloads\ProjetoLPBD V6GH\ProjetoLPBD v6\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v8\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\pvListarCompras.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\pvListarUsuario.g.cshtml.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\pvListarCompras.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\pvListarUsuario.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.genruntimeconfig.cache
+C:\Users\Harich\Downloads\ProjetoLPBD v9\ProjetoLPBD v9\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\pvListarCompras.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\pvListarUsuario.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Busca.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD v10\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\pvBuscaJogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\pvListarCompras.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Busca.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\pvBuscaJogo.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\pvListarUsuario.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete
+C:\Users\Fábio\Desktop\N2 Linguagem de Programação e Banco de Dados\ProjetoLPBD 1.0\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Alterar.g.cshtml.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.deps.json
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.json
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.runtimeconfig.dev.json
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.dll
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\bin\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csprojAssemblyReference.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CoreCompileInputs.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorAssemblyInfo.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfoInputs.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.AssemblyInfo.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.input.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.TagHelpers.output.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorCoreGenerate.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Biblioteca\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Compra\pvListarCompras.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Desenvolvedora\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administradores.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Busca.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Jogo.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Loja.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Home\pvBuscaJogo.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Publicadora\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Alterar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\pvListarUsuario.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.RazorTargetAssemblyInfo.cs
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.Views.pdb
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.dll
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.pdb
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.genruntimeconfig.cache
+C:\Users\Harich\Downloads\TRABALHO\ATIVIDADE_1\ProjetoLPBD 1.2\ProjetoLPBD 1.1\ProjetoLPBD\obj\Debug\netcoreapp2.1\ProjetoLPBD.csproj.CopyComplete

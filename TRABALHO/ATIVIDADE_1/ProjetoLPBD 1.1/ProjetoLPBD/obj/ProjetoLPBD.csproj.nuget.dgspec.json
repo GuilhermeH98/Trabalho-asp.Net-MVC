@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Harich\\Downloads\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.2\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj": {}
+    "C:\\JavaProgramas\\Trabalho-asp.Net-MVC\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Harich\\Downloads\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.2\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj": {
+    "C:\\JavaProgramas\\Trabalho-asp.Net-MVC\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Harich\\Downloads\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.2\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj",
+        "projectUniqueName": "C:\\JavaProgramas\\Trabalho-asp.Net-MVC\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj",
         "projectName": "ProjetoLPBD",
-        "projectPath": "C:\\Users\\Harich\\Downloads\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.2\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj",
+        "projectPath": "C:\\JavaProgramas\\Trabalho-asp.Net-MVC\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj",
         "packagesPath": "C:\\Users\\Harich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Harich\\Downloads\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.2\\ProjetoLPBD 1.1\\ProjetoLPBD\\obj\\",
+        "outputPath": "C:\\JavaProgramas\\Trabalho-asp.Net-MVC\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.1\\ProjetoLPBD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

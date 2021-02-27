@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QRrAeuwxCymZDif8dnRs1QM0Fk+CdtnCsWAYHTGM5/dR6+6bL41KS75XJfSsbNrB0a5CRs6u4+SLlEqSYG/jxg==",
+  "dgSpecHash": "X6SNJq7nmqec23uSJBOZsNcd0XZd+wAwI9LWwoKLQOr8s99nagebd67EZPMljejwZVgh2p4HikQqb2tsizRyow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harich\\Downloads\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.2\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj",
+  "projectFilePath": "C:\\JavaProgramas\\Trabalho-asp.Net-MVC\\TRABALHO\\ATIVIDADE_1\\ProjetoLPBD 1.1\\ProjetoLPBD\\ProjetoLPBD.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

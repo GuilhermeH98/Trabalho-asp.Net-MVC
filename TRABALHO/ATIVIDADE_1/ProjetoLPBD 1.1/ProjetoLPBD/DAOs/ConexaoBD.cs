@@ -10,7 +10,7 @@ namespace ProjetoLPBD.DAOs
     {
         public static SqlConnection GetConexao()
         {
-            string strCon = "Data Source=SQL5097.site4now.net;Initial Catalog=DB_A6AD05_N2LPBD;User Id=DB_A6AD05_N2LPBD_admin;Password=Senhadobanc0";
+            string strCon = "Data Source=LOCALHOST;Initial Catalog=DB_A6AD05_N2LPBD; integrated security=true";
             SqlConnection conexao = new SqlConnection(strCon);
             conexao.Open();
             return conexao;
